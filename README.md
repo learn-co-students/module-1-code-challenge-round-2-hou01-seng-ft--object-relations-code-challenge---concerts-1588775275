@@ -46,7 +46,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 
 #### Band
 
-- `Band#initialize(name, hometown)`
+<!-- - `Band#initialize(name, hometown)`
   - should initialize with a name (string) and hometown (string)
 - `Band#name`
   - should return the `Band`'s name
@@ -55,11 +55,11 @@ Some of the methods listed are provided to you in the starter code. You should c
   - should return the `Band`'s hometown
   - should not be able to change its hometown after creation
 - `Band.all`
-  - returns an array of all the instances of `Band`
+  - returns an array of all the instances of `Band` -->
 
 #### Venue
 
-- `Venue#initialize(title, city)`
+<!-- - `Venue#initialize(title, city)`
   - should initialize with a title (string) and city (string)
 - `Venue#title`
   - should return the title of the venue
@@ -68,14 +68,14 @@ Some of the methods listed are provided to you in the starter code. You should c
   - should return the city of the venue
   - should not be able to change its city after creation
 - `Venue.all`
-  - returns all the instances of `Venue`
+  - returns all the instances of `Venue` -->
 
 #### Concert
 
-- `Concert#initialize(date, band, venue)`
+<!-- - `Concert#initialize(date, band, venue)`
   - should initialize with a date (string), band, and venue
 - `Concert.all`
-  - should return all instances of `Concert`
+  - should return all instances of `Concert` -->
 
 ### Object Relationship Methods
 
